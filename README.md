@@ -1,4 +1,4 @@
-# 🛍️Customer Shopping Behavior Analysis
+# 🛍️Customer Shopping Behaviour Analysis
 A comprehensive data analytics project designed to analyze customer purchasing patterns, identify revenue drivers, and uncover actionable business insights. This project demonstrates a complete data analytics workflow — from data cleaning and transformation to MySQL analysis and interactive dashboard visualization.
 # 📌Project Overview
 This project analyzes a dataset of 3,900+ customer shopping transactions to uncover valuable insights about customer behavior, purchase patterns, and revenue drivers. The analysis combines data cleaning, exploratory data analysis (EDA), and SQL-based business intelligence queries to answer critical business questions.
