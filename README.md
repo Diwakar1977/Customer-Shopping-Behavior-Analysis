@@ -56,7 +56,6 @@ Data cleaning and preprocessing were performed using Python.
   * Fixed inconsistent categories
   * Removed redundant columns
 * **Feature Engineering**
-** Additional features created:**
   * Age Group Segmentation
   * Annual Purchase Frequency
   * Customer Value Segmentation
