@@ -19,12 +19,12 @@ The primary goals of this analysis include:
 * **Jupyter Notebook** :	Data Processing
 * **Power BI**	: Dashboard & Visualization
 # 📊Dataset Information
-**Dataset Summary**
- * Total Records: 3,900
- * Total Columns: 18
- * **Data Type**: Retail Customer Transactions
-**Dataset Features**
-The dataset includes the following categories:
+* **Dataset Summary**
+  * Total Records: 3,900
+  * Total Columns: 18
+  * **Data Type**: Retail Customer Transactions
+* **Dataset Features**
+  The dataset includes the following categories:
 * **Customer Information**
   * Customer ID
   * Age
@@ -48,22 +48,22 @@ The dataset includes the following categories:
   * Discount Applied
 # 🧹Data Cleaning & Preprocessing 
 Data cleaning and preprocessing were performed using Python.
-**Data Cleaning Steps**
- * Removed duplicate records
- * Checked missing values
- * Handled null values
- * Standardized column names
- * Fixed inconsistent categories
- * Removed redundant columns
-**Feature Engineering**
-Additional features created:
- * Age Group Segmentation
- * Annual Purchase Frequency
- * Customer Value Segmentation
-**Data Transformation**
- * Converted categorical frequency into numeric values
- * Normalized category labels
- * Grouped customers into age segments
+* **Data Cleaning Steps**
+  * Removed duplicate records
+  * Checked missing values
+  * Handled null values
+  * Standardized column names
+  * Fixed inconsistent categories
+  * Removed redundant columns
+* **Feature Engineering**
+ Additional features created:
+  * Age Group Segmentation
+  * Annual Purchase Frequency
+  * Customer Value Segmentation
+* **Data Transformation**
+  * Converted categorical frequency into numeric values
+  * Normalized category labels
+  * Grouped customers into age segments
 # 🗄️MySQL Analysis
 MySQL queries were written to extract business insights from the dataset.
 * **Key MySQL Analysis Performed**
@@ -89,24 +89,24 @@ MySQL queries were written to extract business insights from the dataset.
   * Age Group Revenue Analysis
 # 📈Power BI Dashboard
 The Power BI dashboard provides interactive visualization for business stakeholders.
-**Dashboard KPIs**
- * Total Revenue
- * Total Customers
- * Average Rating
-**Visualizations Included**
- * Revenue by Category
- * Customer Spending by Age Group
- * Payment Method Distribution
- * Purchase Frequency Analysis
- * Seasonal Purchase Trends
- * Customer Satisfaction by Category
- * Subscription vs Non‑Subscription Revenue
-**Dashboard Filters**
- * Gender
- * Location
- * Category
- * Subscription Status
- * Season
+* **Dashboard KPIs**
+  * Total Revenue
+  * Total Customers
+  * Average Rating
+* **Visualizations Included**
+  * Revenue by Category
+  * Customer Spending by Age Group
+  * Payment Method Distribution
+  * Purchase Frequency Analysis
+  * Seasonal Purchase Trends
+  * Customer Satisfaction by Category
+  * Subscription vs Non‑Subscription Revenue
+* **Dashboard Filters**
+  * Gender
+  * Location
+  * Category
+  * Subscription Status
+  * Season
 # 📂Project Structure
 ```
 Customer-Shopping-Behavior-Analysis
@@ -129,29 +129,29 @@ Customer-Shopping-Behavior-Analysis
 └── README.md
 ```
 # 🧠Key Insights
-**Revenue Insights**
- * Clothing category generates the highest revenue
- * Subscription customers contribute more revenue
- * Discounts significantly increase purchase volume
-**Customer Behavior Insights**
- * Most customers purchase weekly or fortnightly
- * Young adults and middle‑age customers dominate purchases
- * Male and female customers show similar spending patterns
-**Payment Insights**
- * Credit Card and PayPal are the most preferred payment methods
- * Online payments dominate over cash transactions
-**Seasonal Insights**
- * Sales increase during seasonal promotions
- * Winter and Summer show higher purchase activity
+* **Revenue Insights**
+  * Clothing category generates the highest revenue
+  * Subscription customers contribute more revenue
+  * Discounts significantly increase purchase volume
+* **Customer Behavior Insights**
+  * Most customers purchase weekly or fortnightly
+  * Young adults and middle‑age customers dominate purchases
+  * Male and female customers show similar spending patterns
+* **Payment Insights**
+  * Credit Card and PayPal are the most preferred payment methods
+  * Online payments dominate over cash transactions
+* **Seasonal Insights**
+  * Sales increase during seasonal promotions
+  * Winter and Summer show higher purchase activity
 # ✅Conclusion
 This project successfully analyzed customer shopping behavior using Python, SQL, and Power BI to derive meaningful business insights.
 The analysis identified key revenue drivers, customer segments, and purchasing trends. The dashboard provides a comprehensive view of customer behavior, helping businesses make informed strategic decisions.
-**Key outcomes include:**
- * Identification of top performing categories
- * Customer segmentation by value
- * Understanding purchase frequency trends
- * Payment preference analysis
- * Seasonal demand identification
+* **Key outcomes include:**
+  * Identification of top performing categories
+  * Customer segmentation by value
+  * Understanding purchase frequency trends
+  * Payment preference analysis
+  * Seasonal demand identification
 Overall, the project demonstrates how data analytics can be leveraged to improve customer experience, increase revenue, and support business growth.
 # 📚References
  * Python Pandas Documentation
