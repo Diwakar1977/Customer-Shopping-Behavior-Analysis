@@ -159,6 +159,7 @@ The analysis identified key revenue drivers, customer segments, and purchasing t
  * Data Analytics Best Practices
 # 👨‍💻Author
 DIWAKAR K
+* Data Analyst | Python | MySQL | Power BI
 # ⭐Project Highlights
  * End‑to‑End Data Analytics Project
  * Real‑World Retail Dataset
