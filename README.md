@@ -4,20 +4,15 @@ A comprehensive data analytics project designed to analyze customer purchasing p
 This project analyzes a dataset of 3,900+ customer shopping transactions to uncover valuable insights about customer behavior, purchase patterns, and revenue drivers. The analysis combines data cleaning, exploratory data analysis (EDA), and MySQL-based business intelligence queries to answer critical business questions.
 # 🎯Business Objectives
 The primary goals of this analysis include:
-* Analyze overall revenue performance
-* Identify top-performing product categories
-* Understand customer demographics and spending patterns
-* Evaluate purchase frequency behavior
-* Analyze payment method popularity
-* Measure impact of discounts on revenue
-* Identify high-value customers
-* Understand seasonal purchase trends
-* Compare subscription vs non-suscription customers
-# 🛠Tools & Technologies
-* **Python (Pandas, NumPy)** : Data Cleaning & Feature Engineering
-* **MySQL** :	Data Analysis & Querying
-* **Jupyter Notebook** :	Data Processing
-* **Power BI**	: Dashboard & Visualization
+ * Analyze overall revenue performance
+ * Identify top-performing product categories
+ * Understand customer demographics and spending patterns
+ * Evaluate purchase frequency behavior
+ * Analyze payment method popularity
+ * Measure impact of discounts on revenue
+ * Identify high-value customers
+ * Understand seasonal purchase trends
+ * Compare subscription vs non-suscription customers
 # 📊Dataset Information
 * **Dataset Summary**
   * Total Records: 3,900
@@ -86,26 +81,26 @@ MySQL queries were written to extract business insights from the dataset.
   * High Value Customers
   * Customer Lifetime Value
   * Age Group Revenue Analysis
-# 📈Power BI Dashboard
+# 📈Data Visualization (Power BI)
 The Power BI dashboard provides interactive visualization for business stakeholders.
 * **Dashboard KPIs**
-  * Total Revenue
-  * Total Customers
-  * Average Rating
+   * Total Revenue
+   * Total Customers
+   * Average Rating
 * **Visualizations Included**
-  * Revenue by Category
-  * Customer Spending by Age Group
-  * Payment Method Distribution
-  * Purchase Frequency Analysis
-  * Seasonal Purchase Trends
-  * Customer Satisfaction by Category
-  * Subscription vs Non‑Subscription Revenue
+   * Revenue by Category
+   * Customer Spending by Age Group
+   * Payment Method Distribution
+   * Purchase Frequency Analysis
+   * Seasonal Purchase Trends
+   * Customer Satisfaction by Category
+   * Subscription vs Non‑Subscription Revenue
 * **Dashboard Filters**
-  * Gender
-  * Location
-  * Category
-  * Subscription Status
-  * Season
+   * Gender
+   * Location
+   * Category
+   * Subscription Status
+   * Season
 # 📂Project Structure
 ```
 Customer-Shopping-Behavior-Analysis
@@ -129,19 +124,26 @@ Customer-Shopping-Behavior-Analysis
 ```
 # 🧠Key Insights
 * **Revenue Insights**
-  * Clothing category generates the highest revenue
-  * Subscription customers contribute more revenue
-  * Discounts significantly increase purchase volume
+   * Clothing category generates the highest revenue
+   * Subscription customers contribute more revenue
+   * Discounts significantly increase purchase volume
 * **Customer Behavior Insights**
-  * Most customers purchase weekly or fortnightly
-  * Young adults and middle‑age customers dominate purchases
-  * Male and female customers show similar spending patterns
+   * Most customers purchase weekly or fortnightly
+   * Young adults and middle‑age customers dominate purchases
+   * Male and female customers show similar spending patterns
 * **Payment Insights**
-  * Credit Card and PayPal are the most preferred payment methods
-  * Online payments dominate over cash transactions
+   * Credit Card and PayPal are the most preferred payment methods
+   * Online payments dominate over cash transactions
 * **Seasonal Insights**
-  * Sales increase during seasonal promotions
-  * Winter and Summer show higher purchase activity
+   * Sales increase during seasonal promotions
+   * Winter and Summer show higher purchase activity
+# 📌Business Impact
+This project helps businesses:
+ * Improve customer understanding
+ * Increase revenue opportunities
+ * Optimize product offerings
+ * Improve marketing strategy
+ * decision‑making
 # ✅Conclusion
 This project successfully analyzed customer shopping behavior using Python, MySQL, and Power BI to derive meaningful business insights.
 The analysis identified key revenue drivers, customer segments, and purchasing trends. The dashboard provides a comprehensive view of customer behavior, helping businesses make informed strategic decisions.
@@ -151,6 +153,11 @@ The analysis identified key revenue drivers, customer segments, and purchasing t
   * Understanding purchase frequency trends
   * Payment preference analysis
   * Seasonal demand identification
+# 🛠Tools & Technologies
+ * **Python (Pandas, NumPy)** : Data Cleaning & Feature Engineering
+ * **MySQL** :	Data Analysis & Querying
+ * **Jupyter Notebook** :	Data Processing
+ * **Power BI**	: Dashboard & Visualization
 # 📚References
  * Python Pandas Documentation
  * Power BI Documentation
@@ -158,18 +165,6 @@ The analysis identified key revenue drivers, customer segments, and purchasing t
  * Kaggle Retail Datasets
  * Data Analytics Best Practices
 # 👨‍💻Author
-DIWAKAR K
-* Data Analyst | Python | MySQL | Power BI
-# ⭐Project Highlights
- * End‑to‑End Data Analytics Project
- * Real‑World Retail Dataset
- * MySQL + Python + Power BI
- * Professional Dashboard
- * Business Insights & Recommendations
-# 📌Business Impact
-This project helps businesses:
- * Improve customer understanding
- * Increase revenue opportunities
- * Optimize product offerings
- * Improve marketing strategy
- * decision‑making
+Diwakar K | Data Analyst (Fresher)
+* **Skills:** Python, MySQL,Power BI
+
